@@ -13,7 +13,7 @@
 > Run
 
    cd Pro
-   python2 Imtiaz.pro
+   python2 Imtiaz.Pro
 
 
 ENJOY FREE ❤❤
