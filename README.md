@@ -8,11 +8,12 @@
 
   pip2 install mechanize
 
-  git clone https://github.com/htr-tech/pakcrack.git
+  git clone https://github.com/AKING110/Pro
 
 > Run
-   cd pakcrack
-   python2 crack.py
+
+   cd Pro
+   python2 Imtiaz.pro
 
 
 ENJOY FREE ❤❤
