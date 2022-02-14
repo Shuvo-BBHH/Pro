@@ -13,6 +13,7 @@
 > Run
 
    cd Pro
+
    python2 Imtiaz.Pro
 
 
